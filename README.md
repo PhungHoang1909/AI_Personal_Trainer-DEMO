@@ -143,7 +143,6 @@ This screen highlights how AI adds clarity, motivation, and guidance beyond stat
 
 This repository is designed to support:
 
-- Client and stakeholder walkthroughs  
 - Product vision alignment  
 - Scope validation before development  
 - UX and product feedback sessions  
