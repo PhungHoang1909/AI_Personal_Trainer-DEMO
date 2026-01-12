@@ -2,7 +2,7 @@
 
 FitAI is a product demo that showcases the concept of an AI-powered personal fitness coach designed to deliver personalized workout plans, guided training sessions, progress tracking, and conversational coaching.
 
-This repository is intended for **product demonstration, stakeholder review, and client sign-off** before moving into full-scale development.
+This repository is intended for **demonstration** before moving into full-scale development.
 
 ---
 
